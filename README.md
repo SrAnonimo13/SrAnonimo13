@@ -1,15 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left">
-  <span style="font-size: 2rem">Olá 👋</span>
-  <br>
+  <h1>Olá 👋</h1>
   Me chamo João Gonçalves, tenho <strong>14</strong> anos e sou um progamador <strong>Fullstack</strong><br>e sou mentorado pelo <a href="https://github.com/moisesAlc">Moiseis</a>!
 </p>
-<br>
 
-## Linguagens 💻
-
----
+# Linguagens 💻
 
 <p> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -25,9 +21,7 @@
 
 <br>
 
-## Tecnologias 🎇
-
----
+# Tecnologias 🎇
 
 <p>
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
@@ -46,9 +40,7 @@
 
 <br>
 
-## Projetos 🎉
-
----
+# Projetos 🎉
 
 <br>
 
