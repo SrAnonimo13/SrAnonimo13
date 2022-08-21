@@ -40,14 +40,6 @@
 
 <br>
 
-# Projetos 🎉
-
-<br>
-
-<img src="project.svg">
-
-<br>
-
 ## Contato 📞
 ---
 
