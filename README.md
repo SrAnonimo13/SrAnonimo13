@@ -2,8 +2,12 @@
 
 <p align="left">
   <h1>Olá 👋</h1>
-  Me chamo João Gonçalves, tenho <strong>14</strong> anos e sou um progamador <strong>Fullstack</strong><br>e sou mentorado pelo <a href="https://github.com/moisesAlc">Moiseis</a>!
+  Me chamo João Gonçalves, tenho <strong>14</strong> anos e sou um progamador <strong>Fullstack</strong><br>e sou mentorado pelo <a href="https://github.com/moisesAlc">Moisés</a>!
 </p>
+
+# Projeto(s) interessante(s):
+
+- https://memoria-de-matematica.netlify.app/ (usar o chrome)
 
 # Linguagens 💻
 
