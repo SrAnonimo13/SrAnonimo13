@@ -2,7 +2,7 @@
 
 <p align="left">
   <h1>Olá 👋</h1>
-  Me chamo João Gonçalves, tenho <strong>14</strong> anos e sou um progamador <strong>Fullstack</strong><br>e sou mentorado pelo <a href="https://github.com/moisesAlc">Moisés</a>!
+  Me chamo João Gonçalves, tenho <strong>15</strong> anos e sou um progamador <strong>Fullstack</strong><br>e sou mentorado pelo <a href="https://github.com/moisesAlc">Moisés</a>!
 </p>
 
 # Projeto(s) interessante(s):
